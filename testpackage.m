@@ -11,6 +11,7 @@ BeginPackage[ "Package`"]
     Module[ {y},
       y = x^2;
       y + 1
+      Print["Hello World!"];
     ]
 
   End[]
